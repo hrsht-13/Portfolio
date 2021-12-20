@@ -839,7 +839,7 @@ color: var(--clr-dark);
     padding-top: 0em;
 }
 div.polaroid {
-    width: 80%;
+    width: 100%;
     background-color: var(--clr-light);
     box-shadow: var(--bs);
     margin-bottom: 10px;
